@@ -20,7 +20,7 @@ schedule	version_from	version_to	URL_en
 1.1	20040720	20040923	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20040720.html#wb-cont
 1.1	20040924	20041018	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20040924.html#wb-cont
 1.1	20041019	20050331	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20041019.html#wb-cont
-1.1	20050401	20050403	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20050401.html#wb-cont	
+1.1	20050401	20050403	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20050401.html#wb-cont
 1.1	20050404	20051004	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20050404.html#wb-cont
 1.1	20051005	20051211	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20051005.html#wb-cont
 1.1	20051212	20060205	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230497-20051212.html#wb-cont
@@ -184,4 +184,4 @@ schedule	version_from	version_to	URL_en
 6	20190712	20190714	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230671-20190712.html#wb-cont
 6	20190715	20190827	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230671-20190715.html#wb-cont
 6	20190828	20200116	https://laws-lois.justice.gc.ca/eng/acts/F-11/section-sched230671-20190828.html#wb-cont
-6	20200117			https://laws-lois.justice.gc.ca/eng/acts/F-11/page-36.html#h-230672
+6	20200117		https://laws-lois.justice.gc.ca/eng/acts/F-11/page-36.html#h-230672
